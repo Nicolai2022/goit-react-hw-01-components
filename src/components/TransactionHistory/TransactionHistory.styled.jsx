@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const Transaction = styled.table`
   margin: 0 auto;
-  width: 370px;
+  width: 320px;
   background-color: #c1f2f9;
   border: 1px solid #000000;
   box-shadow: 0 0 10px #c6cccced;

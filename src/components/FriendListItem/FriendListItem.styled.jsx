@@ -6,7 +6,7 @@ export const Item = styled.li`
   justify-content: left;
   gap: 10px;
   list-style: none;
-  width: 200px;
+  width: 250px;
   height: 80px;
   padding: 10px;
   border: 1px solid #000000;
@@ -20,7 +20,7 @@ export const Avatar = styled.img`
 `;
 
 export const Name = styled.p`
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 700;
 `;
 
@@ -30,8 +30,7 @@ export const Status = styled.span`
   height: 15px;
   border-radius: 50%;
   background-color: ${props => {
-    // return props.isOnline ? 'green' : 'red';
-
+  
     switch (props.isOnline) {
       case true:
         return 'green';

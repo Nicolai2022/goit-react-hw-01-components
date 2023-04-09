@@ -5,6 +5,7 @@ export const StatisticsContainer = styled.section`
   flex-direction: column;
   border-radius: 2px;
   margin: 0 auto;
+  width: 320px;
 `;
 
 export const Title = styled.h2`
