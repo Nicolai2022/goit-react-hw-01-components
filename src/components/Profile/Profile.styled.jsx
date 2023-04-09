@@ -25,18 +25,18 @@ export const Avatar = styled.img`
 
 export const Name = styled.p`
   margin: 0;
-  font-size: 18px;
+  font-size: 24px;
 `;
 
 export const Tag = styled.p`
   margin: 0;
-  font-size: 14px;
+  font-size: 22px;
   color: #5d9d9d;
 `;
 
 export const Location = styled.p`
   margin: 0;
-  font-size: 14px;
+  font-size: 18px;
   color: #9d9d9d;
 `;
 

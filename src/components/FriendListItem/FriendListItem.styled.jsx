@@ -6,8 +6,9 @@ export const Item = styled.li`
   justify-content: left;
   gap: 10px;
   list-style: none;
-  width: 250px;
-  height: 80px;
+  width: 280px;
+  margin-left: -40px;
+  height: 100px;
   padding: 10px;
   border: 1px solid #000000;
   border-radius: 5px;
@@ -17,10 +18,12 @@ export const Item = styled.li`
 
 export const Avatar = styled.img`
   border-radius: 2px;
+  height: 80px;
+  width: 80px;
 `;
 
 export const Name = styled.p`
-  font-size: 22px;
+  font-size: 32px;
   font-weight: 700;
 `;
 
