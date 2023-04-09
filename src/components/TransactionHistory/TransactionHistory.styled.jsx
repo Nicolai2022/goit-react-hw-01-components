@@ -23,5 +23,5 @@ export const TransactionBodyText = styled.td`
   text-align: center;
   font-size: 10px;
   padding: 5px;
-  border: 1px solid #524a4d;
+  border: 1px solid #5a4d;
 `;

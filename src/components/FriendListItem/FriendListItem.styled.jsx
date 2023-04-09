@@ -6,7 +6,8 @@ export const Item = styled.li`
   justify-content: left;
   gap: 10px;
   list-style: none;
-  width: 150px;
+  width: 200px;
+  height: 80px;
   padding: 10px;
   border: 1px solid #000000;
   border-radius: 5px;
