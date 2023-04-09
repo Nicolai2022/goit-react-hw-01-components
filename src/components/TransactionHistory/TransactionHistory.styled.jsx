@@ -3,9 +3,10 @@ import styled from '@emotion/styled';
 export const Transaction = styled.table`
   margin: 0 auto;
   width: 370px;
-  background-color: #f9f9f9;
+  background-color: #c1f2f9;
   border: 1px solid #000000;
   box-shadow: 0 0 10px #c6cccced;
+
   border-spacing: 0;
 `;
 
@@ -23,5 +24,5 @@ export const TransactionBodyText = styled.td`
   text-align: center;
   font-size: 10px;
   padding: 5px;
-  border: 1px solid #5a4d;
+  border: 1px solid #524a4d;
 `;
