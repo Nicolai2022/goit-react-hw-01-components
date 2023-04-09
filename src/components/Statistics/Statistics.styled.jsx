@@ -25,7 +25,7 @@ export const Item = styled.li`
   display: flex;
   flex-direction: column;
   gap: 5px;
-  width: 50px;
+  width: 60px;
   list-style: none;
   padding: 15px;
 `;

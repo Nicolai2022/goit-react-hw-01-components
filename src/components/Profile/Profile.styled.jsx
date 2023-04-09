@@ -31,7 +31,7 @@ export const Name = styled.p`
 export const Tag = styled.p`
   margin: 0;
   font-size: 14px;
-  color: #9d9d9d;
+  color: #5d9d9d;
 `;
 
 export const Location = styled.p`
@@ -53,8 +53,8 @@ export const StatsList = styled.li`
   align-items: center;
   padding: 10px 5px;
   min-width: 70px;
-  background-color: #f7f7f7;
-  border: 1px solid #cccccc;
+  background-color: #f5f1f7;
+  border: 1px solid #c1c2c5;
 `;
 
 export const Label = styled.span`
