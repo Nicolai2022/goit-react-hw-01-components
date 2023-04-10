@@ -31,7 +31,7 @@ export const Name = styled.p`
 export const Tag = styled.p`
   margin: 0;
   font-size: 22px;
-  color: #5d9d9d;
+  color: #3d9d8d;
 `;
 
 export const Location = styled.p`
