@@ -19,13 +19,14 @@ export const Description = styled.div`
 export const Avatar = styled.img`
   width: 100px;
   height: 100px;
-  border: 1px solid #9d9d9d;
+  border: 1px solid #7d9d9d;
   border-radius: 50%;
 `;
 
 export const Name = styled.p`
   margin: 0;
   font-size: 24px;
+  color: #1d7d8d;
 `;
 
 export const Tag = styled.p`
@@ -37,7 +38,7 @@ export const Tag = styled.p`
 export const Location = styled.p`
   margin: 0;
   font-size: 18px;
-  color: #9d9d9d;
+  color: #6d8d9d;
 `;
 
 export const Stats = styled.ul`
